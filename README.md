@@ -1,7 +1,8 @@
-# Proyecto_Equipo25_NavegacionAutonoma
+# Maestría en Inteligencia Artificial Aplicada
+## Proyecto_Equipo25_NavegacionAutonoma
 Proyecto Final - Carro Autónomo por simulador
 
-# Maestría en Inteligencia Artificial Aplicada
+
 
 Curso: MR4010.10 - Navegación Autónoma
 
